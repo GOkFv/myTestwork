@@ -1,0 +1,36 @@
+[33mcommit 6f504cef9909adb75995e0c3fdca8dc1bb7361cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 0cc2e30 e2f7eac
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Tue Sep 5 13:26:40 2023 +0300
+
+    Merging new-feature into main
+
+[33mcommit 0cc2e30fc700ec4dafe8744e93a88cc30fa4cbea[m
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Tue Sep 5 13:21:48 2023 +0300
+
+    Ewe odi commit
+
+[33mcommit e2f7eacae1cda1ce1ca3d75fe2206248b4d457d5[m
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Tue Sep 5 13:14:13 2023 +0300
+
+    Modifield file
+
+[33mcommit 47c5f777932d8fa2cc9f7c3dc3358999f7e82ddf[m
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Tue Sep 5 13:08:31 2023 +0300
+
+    New vetka test second branch
+
+[33mcommit 88a0bb1814a42e4892c6b6534ec321b2d3f09173[m
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Mon Sep 4 21:29:11 2023 +0300
+
+    Second commit
+
+[33mcommit 7fa2aefa843d3924351d2212b2ab19ad6807860f[m
+Author: Konstantin Yakovlev <Yakovtown@yandex.ru>
+Date:   Mon Sep 4 20:45:56 2023 +0300
+
+    First commit
